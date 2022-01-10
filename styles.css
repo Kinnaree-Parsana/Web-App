@@ -1,0 +1,22 @@
+body{ 
+    background-image: url("w2.jpg");
+    background-repeat: no-repeat;
+    min-width: 100px;
+}
+.content{
+    background-color: #260633;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 1em;
+    margin-top: 200px;
+    min-width: 100px;
+}
+
+input,button{
+    height: 20px;
+    border-radius: 20px;
+}
